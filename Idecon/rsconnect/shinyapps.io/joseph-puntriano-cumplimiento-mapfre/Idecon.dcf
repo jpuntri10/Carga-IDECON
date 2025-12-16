@@ -1,0 +1,12 @@
+name: Idecon
+title: Idecon
+username: joseph-puntriano-cumplimiento-mapfre
+account: joseph-puntriano-cumplimiento-mapfre
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16119612
+bundleId: 11203719
+url: https://joseph-puntriano-cumplimiento-mapfre.shinyapps.io/Idecon/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
